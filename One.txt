@@ -1,0 +1,8 @@
+
+Uno
+------------ Updating Here -----------
+
+The git and github journey is foundational, but very
+crucial for me to work. Especially in private entrprises.
+This is going to come in handy in my DevOps career.
+
