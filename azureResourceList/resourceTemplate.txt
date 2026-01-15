@@ -1,0 +1,5 @@
+- Virtual Machines (VM)
+- Virtual Network (VNET)
+- Public IP
+- Bastion
+
